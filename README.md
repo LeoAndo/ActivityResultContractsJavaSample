@@ -16,11 +16,3 @@ Sample for [ActivityResultContracts](https://developer.android.com/reference/and
 # For Kotlin
 
 https://github.com/LeoAndo/ActivityResultContractsKotlinSample
-
-
-# refs
-
-https://developer.android.com/reference/androidx/activity/result/ActivityResultLauncher<br>
-https://developer.android.com/reference/androidx/activity/result/ActivityResultCallback<br>
-https://developer.android.com/reference/androidx/activity/result/contract/ActivityResultContract<br>
-https://developer.android.com/training/basics/intents/result?hl=ja#custom<br>
